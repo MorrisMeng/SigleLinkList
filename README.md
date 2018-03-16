@@ -1,7 +1,6 @@
 # SigleLinkList
-A sigle link list , Objective-C
+A sigle link list , Objective-C.
 
-这是一个用OC语言实现单链表：
 
 ## 节点类：MMNode
 ```
