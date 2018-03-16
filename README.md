@@ -50,11 +50,17 @@ int main(int argc, const char * argv[]) {
 
         //输出
         [list printList];
+        
+        //指针逆转
+        [list reverse];
+        
+        //再输出
+        [list printList];
     }
     return 0;
 }
 ```
 
 
-thanks !
+thanks!
 
