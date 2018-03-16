@@ -1,5 +1,5 @@
-# SigleLinkList
-A sigle link list , Objective-C.
+# SinglyLinkedList
+A singly linked list , Objective-C.
 
 
 ## 节点类：MMNode
@@ -26,6 +26,9 @@ A sigle link list , Objective-C.
 
 //输出
 - (void)printList;
+
+//指针逆转
+- (void)reverse;
 
 @end
 ```
